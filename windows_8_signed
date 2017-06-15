@@ -1,0 +1,374 @@
+git\windows_nsa_patches\windows_8>signtool verify /v /ph /pa *
+
+Verifying: windows8-rt-kb4012583-x64_c8a11c6ee4b2a50f1a98d1395435bf3515d8b0a4.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): 8200DA6159CBEF0ECEF95474E3096BFDAA617927
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Thu Feb 09 15:11:47 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:55 2018
+            SHA1 hash: 69BA259530C5894E7DB1DE73E2D1218645961E1B
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: windows8-rt-kb4012583-x64_c8a11c6ee4b2a50f1a98d1395435bf3515d8b0a4.msu
+
+Verifying: windows8-rt-kb4012583-x86_a20e2c7aef00ed8fededea734a1ab1ec016a1a88.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): F065D6661BC0C8614DA8E17DB82CE98E2B4EAEA0
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Thu Feb 09 15:15:46 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:55 2018
+            SHA1 hash: 69BA259530C5894E7DB1DE73E2D1218645961E1B
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: windows8-rt-kb4012583-x86_a20e2c7aef00ed8fededea734a1ab1ec016a1a88.msu
+
+Verifying: Windows8-RT-KB4012598-x64-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): CCBE718FC7152026BBA551FDF1ED6A756C72A74C
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Mon Feb 13 20:08:19 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:53 2018
+            SHA1 hash: 1A6BFE1180E89B963BA4C6A64BF3604DBDB9EE84
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4012598-x64-custom.msu
+
+Verifying: Windows8-RT-KB4012598-x86-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): 3CF4E337240A80B4377FB7FC88F1D1F4D159A5A2
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Mon Feb 13 20:12:24 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:54 2018
+            SHA1 hash: 210FBBB3BB394B9FF5931F3C8FE96CFE4CBA9779
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4012598-x86-custom.msu
+
+Verifying: Windows8-RT-KB4018271-x64-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): BFD66EA823FF864B71E1A0D836242536BB3C98DF
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Sat Apr 08 15:15:00 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:55 2018
+            SHA1 hash: 69BA259530C5894E7DB1DE73E2D1218645961E1B
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4018271-x64-custom.msu
+
+Verifying: Windows8-RT-KB4018271-x86-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): BA33E0E813C445B66782E073DE430B380CA465D5
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Sat Apr 08 14:11:04 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:55 2018
+            SHA1 hash: 69BA259530C5894E7DB1DE73E2D1218645961E1B
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4018271-x86-custom.msu
+
+Verifying: windows8-rt-kb4019623-v2-x64-custom_720c00e9baf8c68497518694ab7db43466959044.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): F9D199DB0E5A0A13E5033F698A2468C56D0E0FF4
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Fri May 19 08:20:39 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:56 2018
+            SHA1 hash: F8E7D0E6A5CBA191ED2A94CB48732F51D4E7EDF0
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: windows8-rt-kb4019623-v2-x64-custom_720c00e9baf8c68497518694ab7db43466959044.msu
+
+Verifying: Windows8-RT-KB4022839-x64-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): 0A33585FAD3316E83BF216ECFE7E45CFB10BFFC1
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Tue Jun 13 10:42:37 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:54 2018
+            SHA1 hash: 210FBBB3BB394B9FF5931F3C8FE96CFE4CBA9779
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4022839-x64-custom.msu
+
+Verifying: Windows8-RT-KB4022839-x86-custom.msu
+Signature Index: 0 (Primary Signature)
+Hash of file (sha1): E42F424CF82B603D1A354736CAD272BAB3DB4E16
+
+Signing Certificate Chain:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Code Signing PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Tue Sep 01 08:29:32 2020
+        SHA1 hash: 3CAF9BA2DB5570CAF76942FF99101B993888E257
+
+            Issued to: Microsoft Corporation
+            Issued by: Microsoft Code Signing PCA
+            Expires:   Fri Nov 03 06:17:17 2017
+            SHA1 hash: 98ED99A67886D020C564923B7DF25E9AC019DF26
+
+The signature is timestamped: Tue Jun 13 10:33:18 2017
+Timestamp Verified by:
+    Issued to: Microsoft Root Certificate Authority
+    Issued by: Microsoft Root Certificate Authority
+    Expires:   Mon May 10 09:28:13 2021
+    SHA1 hash: CDD4EEAE6000AC7F40C3802C171E30148030C072
+
+        Issued to: Microsoft Time-Stamp PCA
+        Issued by: Microsoft Root Certificate Authority
+        Expires:   Sat Apr 03 23:03:09 2021
+        SHA1 hash: 375FCB825C3DC3752A02E34EB70993B4997191EF
+
+            Issued to: Microsoft Time-Stamp Service
+            Issued by: Microsoft Time-Stamp PCA
+            Expires:   Sat Sep 08 03:58:52 2018
+            SHA1 hash: 7BA57715B0F79CA2CF921E5F2A72BE11C2FADC67
+
+SignTool Warning: No page hashes are present.
+
+Successfully verified: Windows8-RT-KB4022839-x86-custom.msu
+
+Number of files successfully Verified: 9
+Number of warnings: 9
+Number of errors: 0
